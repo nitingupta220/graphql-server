@@ -1,3 +1,5 @@
+## Project Setup
+
 ### 1. Clone the repo
 ```
 git clone git@github.com:nitingupta220/graphql-server.git
